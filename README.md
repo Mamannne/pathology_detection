@@ -4,5 +4,5 @@ This repository presents my solution to the Kaggle Challenge on [Cardiac Patholo
 
 The goal was to predict cardiac pathologies given MRIs of different patients and some data like Height and Weight.
 
-![Texte alternatif](img/ovelay1.png)
+![Texte alternatif](img/overlay1.png)
 
